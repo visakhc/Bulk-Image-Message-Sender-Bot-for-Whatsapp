@@ -1,0 +1,13 @@
+8547917584
+8965
+                 Total contacts  2
+                 0  Messages send successfully 
+                 2  Messages Failed 
+                 Time Elapsed ------- 0.38 minutes
+----------------------------------------------------------------------------
+8965
+                 Total contacts  2
+                 1  Messages send successfully 
+                 1  Messages Failed 
+                 Time Elapsed ------- 0.63 minutes
+----------------------------------------------------------------------------

@@ -1,0 +1,20 @@
+
+
+1. Copy and paste the contact numbers in the numbers.txt file.
+2. Copy and paste the message in message.txt file.
+3. Before running the bot please copy the image that you want to send.!!
+4. Run main.py to start the bot.
+
+* You can find the numbers which failed to send, in the Failed.txt file inside project directory.
+
+* Only Indian numbers is allowed now. And the numbers should not contain any the country code (10 digit number is enough).
+* If your numbers have country code (91) attached to it, you can edit the code in line 55 of main.py to "https://web.whatsapp.com/send?phone=".
+
+
+Disclaimers :
+Failing to do any step above may lead to the program crash.
+Make sure to install all in requirements.txt file.
+"Bulk Image-Message Sender Bot for Whatsapp" is only for test purposes.
+Use this at users own risk. We are not responsible for any legal troubles you create.
+You have been warned.
+This project is highly motivated from github.com/anirudhbagri .
